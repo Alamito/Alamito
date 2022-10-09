@@ -11,4 +11,5 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamito&layout=compact&langs_count=7&theme=react" />
   
    https://github.com/Alamito/Alamito/blob/output/github-contribution-grid-snake.gif
-    ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+    ![snake gif]
+    (https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
