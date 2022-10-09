@@ -13,4 +13,4 @@
   
    
   ### Watch my contribution graph get eaten by the snake 🐍
-  ![snake gif](https://github.com/Alamito/Alamito/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Alamito/Alamito/blob/output/github-contribution-grid-snake.svg)
