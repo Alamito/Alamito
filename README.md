@@ -1,4 +1,4 @@
-### Hi 👋
+## Hi 👋
 
 - 🔭 I’m currently studying on UFRGS in Brazil (computer engineering).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL and NodeJS
